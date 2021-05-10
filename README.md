@@ -1,3 +1,3 @@
 # vuepress-demo
 
-[here](https://vuepress-demo-tg.netlify.app/second.html)
+[here](https://vuepress-demo-tg.netlify.app/)
