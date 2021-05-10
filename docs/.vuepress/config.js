@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'title',
+  title: 'Title',
   themeConfig: {
     sidebar: [
       '/',
